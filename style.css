@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-row {
+  text-align: right;
+  padding: 10px;
+}
+
+.nav-row > a {
+  font-size: small;
+  color: black;
+  text-decoration-line: none;
+  margin: 5px;
+}
+
+.nav-row > a:hover {
+  text-decoration-line: underline;
+}
+
+.main-search-app {
+  text-align: center;
+}
+
+.my-buttons {
+  border-radius: 5px;
+  width: 125px;
+  padding: 10px;
+  border: none;
+  color: darkslategrey;
+}
+
+.my-buttons:hover {
+  border: 1px solid darkgrey;
+  padding: 9px;
+  color: black;
+}
+
+.my-buttons-2 {
+  border-radius: 2px;
+  width: 125px;
+  padding: 5px;
+  background-color: royalblue;
+  color: white;
+  border: 1px solid blue;
+}
+
+.my-buttons-2:hover {
+  background-color: blue;
+  border: 1px solid darkblue;
+}
+
+.search-input {
+  border-radius: 25px;
+  border: 1px solid lightgrey;
+  padding: 10px;
+  width: 400px;
+}
+
+.search-input:focus {
+  border: none;
+}
+
+.adv-search-input {
+  border-radius: 2px;
+  border: 1px solid lightgrey;
+  width: 300px;
+  height: 25px;
+}
+
+.container {
+  padding: 10px;
+}
+
+td {
+  padding: 5px;
+}
+
+#adv-search-header {
+  color: crimson;
+}
+
+/*# sourceMappingURL=style.css.map */
